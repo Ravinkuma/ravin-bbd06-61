@@ -3,7 +3,7 @@ package com.java.coding.practice61;
 public class Main_61 {
 
 	public static void main(String[] args) {
-		/*
+		
 		Vehicle v=new Vehicle();
 		v.move();
 		Vehicle v2=new Car();
@@ -29,7 +29,7 @@ public class Main_61 {
 		
 		SavingAccount sa=new SavingAccount(548721021, 16154.2, 6.5);
 		printAccountDetails(sa);
-		*/
+		
 		
 	}
 	public static void printAccountDetails(BankAccount account) {//BankAccount k jagah kuchh aur.
